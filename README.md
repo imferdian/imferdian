@@ -4,19 +4,18 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## About Me
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Languages/Technologies you're learning]**
-- 👯 I’m looking to collaborate on **[Projects or Open Source initiatives]**
-- 🤔 I’m looking for help with **[Areas where you need help]**
-- 💬 Ask me about **[Your expertise or areas you can help with]**
-- 📫 How to reach me: **[Your Email/Contact Info]**
-- ⚡ Fun fact: **[A fun fact about you]**
+- 🔭 I’m currently working on **MERN / PERN Stack**
+- 🌱 I’m currently learning **Develop full-stack web app**
+- 👯 I’m looking to collaborate on **Any full-stack web app project**
+- 🤔 I’m looking for help with **Programming stuff**
+- 📫 How to reach me: **perdiansyah.frd@gmail.com**
+- ⚡ Fun fact: **Im a full-stack web addict**
 
 ## My Skills
 
-- **Languages:** [e.g., JavaScript, Python, Java]
-- **Frameworks/Libraries:** [e.g., React, Node.js, Django]
-- **Tools:** [e.g., Git, Docker, VS Code]
+- **Languages:** Javascript, PHP
+- **Frameworks/Libraries:** NodeJS, Laravel, ReactJs
+- **Tools:** Visual Studio Code
 
 ## My GitHub Stats
 
@@ -24,12 +23,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website/Blog](https://yourwebsite.com)
+- [Instagram](https://www.instagram.com/@whosferdie_)
+- [Twitter](https://x.com/whosferdie)
+- [Personal Web](https://imferdian.github.io/portfolio-tailwind-css/)
 
 ## Projects
 
-- **[Project Name](https://github.com/imferdian/project-name)**: Brief description of your project.
+- **[Web Infromasi Cuaca](https://github.com/imferdian/Informasi-Cuaca-Ferdi)**: Menampikan keadaan cuaca di seluruh dunia
 
 Thank you for visiting my profile! Feel free to reach out to me if you have any questions or would like to collaborate on a project.
