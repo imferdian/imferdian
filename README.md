@@ -160,3 +160,10 @@
 **Thank you for visiting my profile! Let's build something amazing together! 🚀**
 
 </div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31qtbi6ulzy5bp5hos7d36gppr74">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qtbi6ulzy5bp5hos7d36gppr74&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
