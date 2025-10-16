@@ -151,6 +151,7 @@
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation" />
 </div>
 
+
 <div align="center">
   
 ### 💭 Quote of the Day
@@ -163,11 +164,15 @@
 
 ---
 
+<div align="center">
+  
 ### 🎵 Recently Played On Spotify
 
-<div align="center">
+###
+
   <a href="https://open.spotify.com/user/31qtbi6ulzy5bp5hos7d36gppr74">
-    <img style="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=31qtbi6ulzy5bp5hos7d36gppr74&count=5&unique=false" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qtbi6ulzy5bp5hos7d36gppr74&count=5&unique=false" alt="Spotify recently played" />
   </a>
+  
 </div>
 
