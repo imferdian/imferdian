@@ -25,8 +25,6 @@
 
 - 🔭 Currently mastering **MERN & PERN Stack** technologies
 - 🌱 Continuously learning **Full-Stack Web Development** best practices
-- 👥 Open to collaborate on **Exciting Full-Stack Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, PHP, or Laravel**
 - 📧 Reach me at: **perdiansyah.frd@gmail.com**
 - ⚡ Fun fact: **I'm a full-stack web development enthusiast!**
 
